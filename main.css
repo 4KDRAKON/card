@@ -1,0 +1,74 @@
+.container {
+    width: 1200px;
+    padding: 15px 20px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 150px;
+}
+
+.name {
+    margin: 10px 0px;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    color: red;
+}
+
+.number {
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    color: red;
+}
+
+.surname {
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    color: red;
+}
+.btn{
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 15px;
+    border: 1px solid red;
+    color: red;
+    transition: all 1s;
+}
+
+.btn:hover{
+    background-color: red;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 15px;
+    border: 1px solid red;
+    color: #fff;
+}
+.card{
+    background-color: red;
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+
+.plastnumber{
+    text-align: center;
+    color: #fff;
+    margin-top: 50px;
+}
+
+
+.kiriting{
+    color: #fff;
+    margin-left: 40px;
+    font-style: italic;
+}
+
+
+.anor{
+    color: #fff;
+    text-align: center;
+}
